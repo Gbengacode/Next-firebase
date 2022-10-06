@@ -1,0 +1,5 @@
+export const ACTIONS = {
+    GETTASKS: "GETTASKS",
+    ADDTASK: "ADDTASK",
+    DELETETASK: "DELETETASK"
+}
